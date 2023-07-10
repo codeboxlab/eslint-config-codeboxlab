@@ -1,12 +1,12 @@
 {
-  "name": "@codeboxlab/eslint-config",
+  "name": "@codeboxlab_/eslint-config",
   "version": "1.0.0",
   "description": "ESLint configuration by CodeBoxlab.",
   "main": "index.js",
   "author": "Matheus Alves <mtalves27@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/codeboxlab/eslint-config-codeboxlab"
+    "url": "git+https://github.com/codeboxlab/eslint-config-codeboxlab.git"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.61.0",
@@ -27,5 +27,9 @@
     "eslint": "^8.44.0",
     "typescript": "^5.1.6"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeboxlab/eslint-config-codeboxlab/issues"
+  },
+  "homepage": "https://github.com/codeboxlab/eslint-config-codeboxlab#readme"
 }

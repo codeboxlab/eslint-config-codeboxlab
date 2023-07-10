@@ -15,17 +15,17 @@
 
 ```bash
 # With npm
-npm i -D eslint @codeboxlab/eslint-config
+npm i -D eslint @codeboxlab_/eslint-config
 
 # With yarn
-yarn add -D eslint @codeboxlab/eslint-config
+yarn add -D eslint @codeboxlab_/eslint-config
 ```
 
 2. Create a `.eslintrc.json` (or `.eslintrc`) file extending the config:
 
 ```
 {
-  "extends": "@codeboxlab/eslint-config"
+  "extends": "@codeboxlab_/eslint-config"
 }
 ```
 
